@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: DataKind Bangalore Knowledge Hub
+title: DKBLR Knowledge Hub
 email: bangalore@datakind.org
 description: >- # this means to ignore newlines until "baseurl:"
   One stop for all infomation rellated to DataKind Bangalore.
@@ -27,7 +27,16 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-
+header_pages:
+  - about/content.md
+  - contact/content.md
+  - dei/content.md
+  - media/content.md
+  - people/content.md
+  - processes/content.md
+  - projects/content.md
+  - research_hub/content.md
+  - rech_for_good/content.md
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
