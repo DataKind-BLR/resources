@@ -17,7 +17,7 @@ title: DataKind Bangalore Knowledge Hub
 email: bangalore@datakind.org
 description: >- # this means to ignore newlines until "baseurl:"
   One stop for all infomation rellated to DataKind Bangalore.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/knowledge_hub" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: DataKindBLR
 github_username:  DataKind-BLR
