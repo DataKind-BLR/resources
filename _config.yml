@@ -28,15 +28,16 @@ theme: minima
 plugins:
   - jekyll-feed
 header_pages:
-  - about/content.md
-  - contact/content.md
   - dei/content.md
   - media/content.md
   - people/content.md
   - processes/content.md
-  - projects/content.md
+  - projects/template.md
   - research_hub/content.md
-  - rech_for_good/content.md
+  - tech_for_good/content.md
+footer_pages:
+  - about/content.md
+  - contact/content.md
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
