@@ -35,7 +35,7 @@ If a participant engages in harassing behavior, event organizers will notify tha
 
 This Code of Conduct **applies to everyone** - be it DataKind Chapter Leaders, the Core Team, the Sprint Task Force, Data Ambassadors, Data Experts, Project Managers, Volunteers, Nonprofit Partners, Speakers, Media persons or any other attendees. It also applies to all the spaces managed by DataKind Bangalore which includes event venues, Slack, and any other forums created by the project teams which the community uses for communication.
 
-Contact Us
+### Contact Us
 
 If someone has made you feel uncomfortable for any reason or if you believe someone is violating the code of conduct, we want to hear from you.
 
