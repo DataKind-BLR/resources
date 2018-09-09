@@ -1,3 +1,10 @@
+---
+layout: page
+title: DEI
+permalink: /dei/coc
+---
+
+
 # Code of Conduct
 
 This code of conduct governs the environment of the DataKind community. DataKind strives to harness the power of data science in the service of humanity. We thrive because of our community and want to ensure everyone has a rewarding and fulfilling experience in line with DataKind&#39;s core values.
