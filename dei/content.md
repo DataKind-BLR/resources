@@ -4,4 +4,4 @@ title: DEI
 permalink: /dei/
 ---
 
-- Code of Conduct
+- [Code of Conduct](/knowledge_hub/dei/coc)
