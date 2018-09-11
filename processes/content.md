@@ -4,7 +4,6 @@ title: processes
 permalink: /processes/
 ---
 
-- Code of Conduct
 - Engagement Framework
 	- Sprint
 	- DataCorps
