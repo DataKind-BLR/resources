@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: DKBLR Knowledge Hub
+title: DKBLR Hub
 email: bangalore@datakind.org
 description: >- # this means to ignore newlines until "baseurl:"
   One stop for all infomation rellated to DataKind Bangalore.
@@ -24,7 +24,8 @@ github_username:  DataKind-BLR
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
+remote_theme: fongandrew/hydeout
 plugins:
   - jekyll-feed
 header_pages:

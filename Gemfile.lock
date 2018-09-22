@@ -147,6 +147,11 @@ GEM
     jekyll-theme-hacker (0.1.0)
       jekyll (~> 3.5)
       jekyll-seo-tag (~> 2.0)
+    jekyll-theme-hydeout (3.7.1)
+      jekyll (~> 3.4)
+      jekyll-feed (~> 0.6)
+      jekyll-gist (~> 1.4)
+      jekyll-paginate (~> 1.1)
     jekyll-theme-leap-day (0.1.0)
       jekyll (~> 3.5)
       jekyll-seo-tag (~> 2.0)
@@ -235,8 +240,8 @@ DEPENDENCIES
   github-pages
   jekyll (~> 3.6.2)
   jekyll-feed (~> 0.6)
-  minima (~> 2.0)
+  jekyll-theme-hydeout (~> 3.4)
   tzinfo-data
 
 BUNDLED WITH
-   1.16.0
+   1.16.4
