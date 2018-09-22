@@ -1,6 +1,7 @@
 ---
 layout: page
 title: processes
+sidebar_link: true
 permalink: /processes/
 ---
 

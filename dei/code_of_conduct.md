@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DEI
+title: Diversity Equality Inclusivity
 permalink: /dei/coc
 ---
 
@@ -50,7 +50,7 @@ Contact us immediately however you prefer:
 
 - Flag a DataKind event organizer
 - Use Slack to direct message one of us [here](https://dkblr-slack.herokuapp.com/)
-- Email [bangalore@datakind.org](mailto:bangalore@datakind.org) to reach all members of DK-BLR&#39;s chapter leadership, or [heidi@datakind.org](mailto:heidi@datakind.org) to reach the Senior Network Strategist based in DataKind&#39;s headquarters in New York
+- Email [bangalore@datakind.org](mailto:bangalore@datakind.org) to reach all members of DK-BLR&#39;s chapter leadership, or [ada@datakind.org](mailto:heidi@datakind.org) to reach the Senior Network Strategist based in DataKind&#39;s headquarters in New York
 - Submit your concerns in [this anonymous form](https://goo.gl/forms/cIWL6NwHllwCcO0F3)
 
 If your issue has not been resolved, is an ongoing problem, or involves chapter leadership directly, you may bring your concerns to DataKind HQ directly and confidentially at [conduct@datakind.org](mailto:conduct@datakind.org)

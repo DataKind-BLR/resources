@@ -1,6 +1,7 @@
 ---
 layout: page
-title: DEI
+title: Diversity Equality Inclusivity
+sidebar_link: true
 permalink: /dei/
 ---
 

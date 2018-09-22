@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Media
+sidebar_link: true
 permalink: /media/
 ---
 
