@@ -1,8 +1,15 @@
 # Resources
 
-A bunch of DataKind collated resources that might be useful
+Welcome to resources, we are glad you ended up here. Whether you are looking to begin your contributing journey or you want to master your data science skills or whether you found an issue and want to notify us, this list will help you get onward with your journey.
 
-------
+---
+
+## Start From Here
+  - [Definitive Guide to contributing to open source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/)
+  - [Introduction to Gihub and Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source)
+  - [A great project to being your contribution to open source](https://github.com/danthareja/contribute-to-open-source)
+
+---
 
 
 ## Blogs
